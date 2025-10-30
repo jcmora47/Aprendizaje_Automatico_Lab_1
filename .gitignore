@@ -1,2 +1,3 @@
 # Ignorar la carpeta del entorno virtual de Python
+venv/
 .venv/
